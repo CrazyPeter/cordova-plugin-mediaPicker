@@ -12,7 +12,7 @@ android 和 ios cordova图片视频选择插件，支持多图 视频 gif，ui�
 use npm OR github:
 
 ```
-  cordova plugin add https://github.com/DmcSDK/cordova-plugin-mediaPicker.git --variable IOS_PHOTO_LIBRARY_USAGE_DESCRIPTION="your usage message"
+  cordova plugin add https://github.com/CrazyPeter/cordova-plugin-mediaPicker.git --variable IOS_PHOTO_LIBRARY_USAGE_DESCRIPTION="申请获取媒体文件权限"
 ```
 
 ## Android tips
